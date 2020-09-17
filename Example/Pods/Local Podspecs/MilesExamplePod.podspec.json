@@ -18,6 +18,11 @@
   "platforms": {
     "ios": "11.0"
   },
+  "dependencies": {
+    "lottie-ios": [
+
+    ]
+  },
   "swift_versions": "5.0",
   "source_files": [
     "Source/**/*.{swift}"

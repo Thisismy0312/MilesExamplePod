@@ -1,15 +1,22 @@
 PODS:
-  - MilesExamplePod (1.0.0)
+  - lottie-ios (3.1.8)
+  - MilesExamplePod (1.0.0):
+    - lottie-ios
 
 DEPENDENCIES:
   - MilesExamplePod (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
 
 EXTERNAL SOURCES:
   MilesExamplePod:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MilesExamplePod: 70bf95201465f73296bb017ec3449c02308ae44b
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  MilesExamplePod: 7835dbb0a24f71c640eb93c901f3165c83d0ce43
 
 PODFILE CHECKSUM: 8ad01f4b0bb7dbd2adfa72f124e4061a2806f77f
 
