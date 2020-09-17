@@ -1,0 +1,6 @@
+framework module MilesExamplePod {
+  umbrella header "MilesExamplePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

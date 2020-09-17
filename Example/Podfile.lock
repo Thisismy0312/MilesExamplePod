@@ -1,0 +1,16 @@
+PODS:
+  - MilesExamplePod (0.1.0)
+
+DEPENDENCIES:
+  - MilesExamplePod (from `../`)
+
+EXTERNAL SOURCES:
+  MilesExamplePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MilesExamplePod: f41d34196d36f8168bcbf15aeff327cbc4c6a6f2
+
+PODFILE CHECKSUM: 8ad01f4b0bb7dbd2adfa72f124e4061a2806f77f
+
+COCOAPODS: 1.9.1
